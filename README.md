@@ -154,3 +154,22 @@ The project provides:
 ## Conclusion
 
 This project demonstrates how Data Analytics and Machine Learning techniques can be applied to insurance data for cost prediction and risk assessment. Through EDA, Regression Models, Logistic Regression, and Dashboard Visualization, meaningful insights can be generated to support insurance companies in premium estimation and policy planning. The system helps improve decision-making, reduce risks, and provide fair insurance pricing for customers.
+<img width="775" height="508" alt="Screenshot 2026-06-14 183032" src="https://github.com/user-attachments/assets/4e7c535a-37d0-473d-8920-0ef9340c9727" />
+<img width="762" height="536" alt="Screenshot 2026-06-14 183047" src="https://github.com/user-attachments/assets/36b9724d-7aa9-448c-869c-65bc9a03078f" />
+<img width="793" height="531" alt="Screenshot 2026-06-14 183056" src="https://github.com/user-attachments/assets/f6daeb05-c98b-450a-b9b3-0f8a26f1266c" />
+<img width="792" height="517" alt="Screenshot 2026-06-14 183109" src="https://github.com/user-attachments/assets/3e6d10f5-30b7-472c-8a55-10cd1c4d0835" />
+<img width="767" height="502" alt="Screenshot 2026-06-14 183126" src="https://github.com/user-attachments/assets/86428eea-9a31-4f1f-82fb-5ad428d6c73c" />
+<img width="795" height="515" alt="Screenshot 2026-06-14 183139" src="https://github.com/user-attachments/assets/56932ef8-dd43-40bc-8e05-a6e68fc55bb0" />
+<img width="765" height="506" alt="Screenshot 2026-06-14 183151" src="https://github.com/user-attachments/assets/c37d2bff-19ba-4811-8b89-a18f22d2bcfc" />
+<img width="707" height="513" alt="Screenshot 2026-06-14 183205" src="https://github.com/user-attachments/assets/566f9612-7b96-42fe-9c38-0d31f2071541" />
+<img width="533" height="476" alt="Screenshot 2026-06-14 183214" src="https://github.com/user-attachments/assets/0a5e5402-7010-41d8-9d92-a69f4ca81df6" />
+<img width="766" height="566" alt="Screenshot 2026-06-14 183229" src="https://github.com/user-attachments/assets/7c5acf6e-905e-4cc2-b63a-53b644dd4ed6" />
+
+
+
+
+
+
+
+
+
